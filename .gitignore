@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3-journal
+
+# Virtual environments and hosting caches
+.venv/
+venv/
+.local/
+.cache/
+
+# OS / editor
+.DS_Store
+.vscode/
